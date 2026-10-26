@@ -4,3 +4,4 @@ __pycache__/
 memory.json
 notes.txt
 chroma_db/
+agent.log
