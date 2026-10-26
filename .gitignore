@@ -3,3 +3,4 @@ venv/
 __pycache__/
 memory.json
 notes.txt
+chroma_db/
